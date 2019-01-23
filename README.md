@@ -6,4 +6,4 @@
 
 [MORE FACTS ABOUT ITALY](https://www.kids-world-travel-guide.com/italy-facts.html)
 
-! [ITALY] (
+![alt text](https://www.votpusk.ru/country/cnimages/new/italy.jpg)
